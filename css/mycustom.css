@@ -1,4 +1,8 @@
-
+.az {
+    color: 
+    black;
+    font-size: 20px;
+}
 body,h1,h2,h3,h4,h5,h6 {
   font-family: "Lobster", serif;
   text-align: center;
@@ -15,7 +19,7 @@ p {
     font-size: 16px;
     text-align: justify;
 
-    color: #f7f7f7;
+    /*! color: #f7f7f7; */
 }
 
 
